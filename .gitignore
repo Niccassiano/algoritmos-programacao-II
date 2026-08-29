@@ -1,0 +1,10 @@
+# arquivos compilados do C
+*.exe
+*.o
+
+# diretorios de build
+build/
+bin/
+
+# vs code
+.vscode/
