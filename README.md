@@ -38,27 +38,27 @@ algoritmos-programacao-II/
 │
 ├── exercicio-01/
 │   ├── struct-aluno.c      # Criação e leitura de struct de aluno
-│   └── struct-aluno.exe
+│   
 │
 ├── exercicio-02/
 │   ├── alterar-nota.c      # Alteração da nota do aluno
-│   └── alterar-nota.exe
+│   
 │
 ├── exercicio-03/
 │   ├── verifica-nota.c     # Verificação e validação de nota
-│   └── verifica-nota.exe
+│   
 │
 ├── exercicio-04/
 │   ├── alterar-nome.c      # Alteração do nome do aluno
-│   └── alterar-nome.exe
+│   
 │
 ├── exercicio-05/
 │   ├── verifica-idade.c    # Verificação e validação de idade
-│   └── verifica-idade.exe
+│   
 │
 ├── exercicio-06/
 │   ├── alterar-endereco.c  # Alteração do endereço do aluno
-│   └── alterar-endereco.exe
+│   
 │
 ├── .vscode/
 │   └── tasks.json          # Configuração de compilação no VS Code
