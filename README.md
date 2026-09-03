@@ -109,7 +109,7 @@ Ou use o terminal integrado do VS Code — o `tasks.json` já está configurado 
 
 - 👤 GitHub: [Niccassiano](https://github.com/Niccassiano)
 - 📘 Algoritmos e Programação I: [algoritmos-programacao-I](https://github.com/Niccassiano/algoritmos-programacao-I)
-- - 👨‍🏫 Professor: [Thyago Quintas — LinkedIn](https://www.linkedin.com/in/thyagoquintas/)
+- 👨‍🏫 Professor: [Thyago Quintas — LinkedIn](https://www.linkedin.com/in/thyagoquintas/)
 - 🏫 Disciplina: SENAC SP — Ciência da Computação
 
 ---
